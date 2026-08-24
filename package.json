@@ -1,0 +1,37 @@
+{
+  "name": "kanagawa-neutral-light",
+  "displayName": "Kanagawa Neutral Light",
+  "description": "A neutral light interpretation of Kanagawa with restrained warmth and readable contrast.",
+  "version": "1.0.0",
+  "publisher": "DimaBotezatu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lao9s/kanagawa-neutral-light-vscode.git"
+  },
+  "homepage": "https://github.com/lao9s/kanagawa-neutral-light-vscode#readme",
+  "bugs": {
+    "url": "https://github.com/lao9s/kanagawa-neutral-light-vscode/issues"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "kanagawa",
+    "light",
+    "neutral",
+    "theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kanagawa Neutral Light",
+        "uiTheme": "vs",
+        "path": "./themes/kanagawa-neutral-light-color-theme.json"
+      }
+    ]
+  }
+}

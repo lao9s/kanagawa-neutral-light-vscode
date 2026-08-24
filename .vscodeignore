@@ -1,0 +1,10 @@
+.git/**
+.gitignore
+.vscodeignore
+.DS_Store
+**/.DS_Store
+*.vsix
+
+# The README points at the screenshot on GitHub raw, so it does not
+# need to ship inside the extension package.
+images/**
