@@ -6,5 +6,7 @@
 *.vsix
 
 # The README points at the screenshot on GitHub raw, so it does not
-# need to ship inside the extension package.
+# need to ship inside the extension package. The icon is the exception:
+# it must be inside the .vsix for the Marketplace to pick it up.
 images/**
+!images/icon.png

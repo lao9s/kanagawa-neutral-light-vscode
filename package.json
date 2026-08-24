@@ -4,6 +4,7 @@
   "description": "A neutral light interpretation of Kanagawa with restrained warmth and readable contrast.",
   "version": "1.0.0",
   "publisher": "DimaBotezatu",
+  "icon": "images/icon.png",
   "license": "MIT",
   "repository": {
     "type": "git",
