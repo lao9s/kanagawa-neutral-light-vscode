@@ -26,7 +26,7 @@
     "list.activeSelectionBackground": "#C7C7DD",
     "list.activeSelectionForeground": "#292936",
     "list.inactiveSelectionBackground": "#DADAE4",
-    "list.hoverBackground": "#E4E4E0",
+    "list.hoverBackground": "#E1E1DD",
     "list.focusOutline": "#7E5D9E",
     "activityBar.background": "#E5E5E1",
     "activityBar.foreground": "#363646",
